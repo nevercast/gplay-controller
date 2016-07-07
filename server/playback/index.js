@@ -1,0 +1,1 @@
+var speaker = require('speaker');
